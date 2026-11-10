@@ -1,0 +1,23 @@
+# 虚拟环境（你现在是 .venv）
+.venv/
+venv/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# PyCharm 配置文件夹
+.idea/
+
+# 密钥、API密钥文件（绝对不要上传！）
+.env
+
+# 日志、临时文件
+*.log
+*.tmp
+
+# 其他杂项
+.DS_Store
